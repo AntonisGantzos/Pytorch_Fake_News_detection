@@ -1,4 +1,4 @@
-# Pytorch_Fake_News_detection
+# Fake news detection with Pytorch
 # Project Overview
   This project demonstrates the use of a simple Neural Network for fake news detection using PyTorch. The goal is to classify news articles as either fake or real based on their content.
 
