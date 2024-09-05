@@ -11,7 +11,7 @@
   - Clone the repository.
   - Install dependencies using pip install -r requirements.txt.
   - Run the notebook for training and evaluation.
-  - 
+    
 # Prerequisites
   - Python 3.x
   - PyTorch
