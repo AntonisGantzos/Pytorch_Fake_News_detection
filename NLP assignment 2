@@ -1,0 +1,47 @@
+Objective:
+To practice applying the rules of a context-free grammar to determine if specific strings are valid productions of that grammar.
+
+
+
+Context-Free Grammar (CFG):
+Provided below is a context-free grammar. This CFG is designed to generate simple sentences or strings. The symbol | means the logical "OR".
+
+
+
+S → NP VP
+NP → Det N
+VP → V NP | V
+Det → "a" | "the"
+N → "cat" | "dog" | "fish"
+V → "sees" | "likes" | "eats"
+
+
+Where S is the start symbol, NP is a noun phrase, VP is a verb phrase, Det is a determiner, N is a noun, and V is a verb.
+
+
+
+Task:
+Your task is to determine whether the following strings are valid according to the provided CFG. For each string, explain your reasoning based on the grammar's production rules.
+
+"the dog sees a cat"
+"likes the fish"
+"a cat eats"
+"the dog the fish"
+"sees a fish"
+
+
+Instructions:
+Analyze each string based on the CFG provided.
+Determine if the string can be derived from the start symbol (S) using the production rules.
+Explain your reasoning for each string, showing which rules apply or why a string cannot be derived.
+
+
+Submission:
+Submit your analysis and explanations for each of the five strings in a written document.
+
+
+
+Grading Criteria:
+Accuracy: Correctly identifying valid and invalid strings.
+Explanation: Clarity and correctness in the explanation of how the strings do or do not conform to the CFG.
+Understanding of CFG: Demonstrating a thorough understanding of how CFGs work.
